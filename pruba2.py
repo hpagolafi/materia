@@ -2,4 +2,4 @@
 nombre = input("Por favor, ingresa tu nombre: ")
 
 # Imprimir un saludo personalizado
-print(f"buenas, {nombre}!")
+print(f"buenas2, {nombre}!")
